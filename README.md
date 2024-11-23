@@ -104,9 +104,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## **Author**
-**Your Name**  
-- GitHub: [adipramanadev](https://github.com/adipramanadev)  
-- Email: your.email@example.com  
+**Herry Prasetyo**  
+- GitHub: [adipramanadev](https://github.com/adipramanadev)   
 
 ---
 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356566331707",
+    "project_id": "crudfirebase-5656a",
+    "storage_bucket": "crudfirebase-5656a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356566331707:android:f032503c7aebd62df6c71e",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4s1XUaKr21DEdUgCynO1dy6ND2fw3xUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356566331707:android:7f7c738d044ec151f6c71e",
+        "android_client_info": {
+          "package_name": "com.example.sinkronisasilokal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4s1XUaKr21DEdUgCynO1dy6ND2fw3xUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
